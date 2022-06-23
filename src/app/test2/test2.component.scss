@@ -1,0 +1,6 @@
+@use '../common';
+
+.test2 {
+  background: common.$body-bg;
+  color: green;
+}

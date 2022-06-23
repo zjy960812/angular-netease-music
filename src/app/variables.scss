@@ -1,0 +1,36 @@
+@use 'color.scss';
+
+$card-shadow: 0 2px 14px 0 rgba(7, 18, 42, 0.06);
+
+//---- animation -----//
+// transform time
+$transform-time: 0.3s;
+
+//---- layout -----//
+$modal-padding-left: 40px;
+
+// Z-index master list
+$zindex-dropdown: 1;
+$zindex-sticky: 2;
+$zindex-fixed: 3;
+$zindex-modal-backdrop: 4;
+$zindex-modal: 5;
+$zindex-popover: 6;
+
+// margin
+$widget-margin-of-editor: 16px;
+$widget-margin-between: 12px;
+$widget-space-sm: 8px;
+$widget-space-xs: 4px;
+
+// icon
+$icon-size: 28px;
+$icon-hover-radius: 4px;
+
+$icon-base: 16px;
+$icon-md: 20px;
+$icon-lg: 24px;
+
+#my {
+  color: ghostwhite;
+}

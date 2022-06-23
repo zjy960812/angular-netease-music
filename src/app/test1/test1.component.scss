@@ -1,0 +1,7 @@
+@forward '_index';
+
+.test1{
+  background: common.$body-bg;
+  color: common.$font-c1;
+  font-size: variables.$icon-base;
+}

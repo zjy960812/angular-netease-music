@@ -35,11 +35,7 @@
                 "output": "/assets/"
               }
             ],
-            "styles": [
-              "node_modules/ng-zorro-antd/ng-zorro-antd.min.css",
-              "src/theme.less",
-              "src/styles.scss"
-            ],
+            "styles": ["src/styles.scss"],
             "scripts": []
           },
           "configurations": {
